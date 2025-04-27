@@ -1,36 +1,52 @@
-# Maximizing Profits: Analyzing Top Earning Apps in the App Store and Google Play
+# Data Analysis Projects Portfolio
+Welcome to my Data Analysis Projects portfolio!
+This repository showcases the projects I’ve completed to build and demonstrate my skills in data wrangling, exploratory analysis, SQL querying, and business insights generation. I'm passionate about turning raw data into clear, actionable insights that drive smarter decisions.
+Currently building my portfolio to launch a career in data analysis.
 
-This project explores mobile app market data from the App Store and Google Play to identify what types of apps are most likely to attract users — with the goal of helping a developer team make data-driven decisions on which free apps to build for optimal ad-based revenue.
 
-## Project Objective
+## Table of Contents
+- Maximising Profits: Analysing Top-Earning Apps
 
-As a data analyst for a company that develops free-to-download mobile apps, my goal is to:
-- Identify app profiles that are likely to perform well in terms of user engagement.
-- Focus on apps that attract the highest number of users, given that our primary revenue stream is **in-app advertisements**.
+- Customers and Products Analysis Using SQL
 
-## Datasets Used
+- Skills Demonstrated
 
-- **Google Play Store Apps**: [Kaggle Dataset](https://www.kaggle.com/datasets/lava18/google-play-store-apps)
-- **Apple App Store Apps**: [Kaggle Dataset](https://www.kaggle.com/datasets/ramamet4/app-store-apple-data-set-10k-apps)
+- About Me
 
-Both datasets include information on thousands of mobile apps, covering categories, number of installs, reviews, and ratings.
+# Maximising Profits: Analysing Top-Earning Apps
+- Goal: Help a developer team decide which types of free apps to build for ad revenue.
 
-## Python Tools
+- Tools: Python (Jupyter Notebook)
 
-- Jupyter Notebook
-- Loops
-- Functions
+- Skills: Data cleaning, exploratory data analysis (EDA), business strategy alignment.
 
-## Key Insights
+- Datasets: App Store and Google Play datasets from Kaggle.
 
-- **Games** and **Entertainment** apps tend to dominate the top categories in both stores.
-- **Free apps with high install counts** tend to monetize better through ads.
-- Certain categories like **Education** and **Productivity** also show strong user engagement with lower competition.
-- Data cleaning revealed issues such as duplicate entries, formatting inconsistencies, and the need to filter non-English apps.
+# Customers and Products Analysis Using SQL
+- Goal: Analyse customer behaviour and product performance to inform inventory, marketing, and customer acquisition strategies.
+
+- Tools: SQL (MySQL)
+
+- Skills: CTEs, JOINs, customer segmentation, business intelligence.
+
+- Focus Areas:
+
+  - Product restocking priorities
+
+  - VIP vs. least engaged customer identification
+
+  - Customer lifetime value estimation
 
 ## Skills Demonstrated
+- Data wrangling and cleaning
 
-- Data wrangling and cleaning (handling duplicates, missing values, formatting issues)
-- Exploratory data analysis (EDA)
-- Data visualization to communicate findings
-- Business thinking - aligning data insights with revenue models
+- Exploratory Data Analysis (EDA)
+
+- SQL query development and optimization
+
+- Business-focused data storytelling
+
+- Insight generation for strategic decision-making
+
+
+
